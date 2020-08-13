@@ -18,7 +18,7 @@ Currently I am a [@hexojs](https://github.com/hexojs) core team member and a [@s
 
 ## Get in touch
 
-[![](https://img.shields.io/badge/-@isukkaw-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/isukkaw) [![](https://img.shields.io/badge/-https://blog.skk.moe-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.skk.moe) [![](https://img.shields.io/badge/-t.me/sukkachannel-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/sukkachannel) [![](https://img.shields.io/badge/-github@skk.moe-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:github_at_skk.moe)
+[![](https://img.shields.io/badge/-@isukkaw-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/isukkaw) [![](https://img.shields.io/badge/-https://blog.skk.moe-0e83cd?style=flat-square&logo=Hexo&logoColor=fff)](https://blog.skk.moe) [![](https://img.shields.io/badge/-t.me/sukkachannel-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/s/sukkachannel) [![](https://img.shields.io/badge/-github@skk.moe-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:github_at_skk.moe)
 
 ----
 
