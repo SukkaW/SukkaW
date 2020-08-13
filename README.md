@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sukkaw&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="right" src="https://github-readme-stats.mrdulin.vercel.app/api?username=sukkaw&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>
 
 # Sukka
@@ -11,10 +11,7 @@
 Currently I am a [@hexojs](https://github.com/hexojs) core team member and a [@sspanel-uim](https://github.com/sspanel-uim) develop team member:
 
 <a href="https://github.com/hexojs/hexo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hexojs&repo=hexo&show_owner=true" />
-</a>
-<a href="https://github.com/Anankke/SSPanel-Uim">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Anankke&repo=SSPanel-Uim&show_owner=true" />
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/pin/?username=hexojs&repo=hexo&show_owner=true" />
 </a>
 
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
