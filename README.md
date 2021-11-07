@@ -2,7 +2,7 @@
 
 > A coder who is passionate about web technologies and open source
 
-<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=sukkaw&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f" align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=sukkaw&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true" align="right">
 
 **I am a...**
 
