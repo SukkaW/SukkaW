@@ -2,7 +2,13 @@
 
 > A coder who is passionate about web technologies and open source
 
-<img src="https://github-readme-stats.vercel.app/api?username=sukkaw&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true" align="right">
+<a href="https://github.com/sukkaw#gh-light-mode-only">
+  <img src="https://l.skk.moe/git-stat-card-light#gh-light-mode-only" align="right" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/sukkaw#gh-dark-mode-only">
+  <img src="https://l.skk.moe/git-stat-card-darkmode#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
+</a>
 
 **I am a...**
 
