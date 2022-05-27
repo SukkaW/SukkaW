@@ -13,7 +13,7 @@
 **I am a...**
 
 - [@hexojs](https://github.com/hexojs) core team member
-- [RSSHub](https://github.com/hexojs) collaborator
+- [RSSHub](https://github.com/DIYgod/RSSHub) collaborator
 - [@sspanel-uim](https://github.com/sspanel-uim) develop team member
 - [OpenIPDB](https://github.com/OpenIPDB) founder
 - [htmlnano](https://github.com/posthtml/htmlnano) contributor
