@@ -1,5 +1,7 @@
 ### Hi there 👋, I am [Sukka](https://skk.moe)
 
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fsukkaw)
+
 > A coder who is passionate about web technologies and open source
 
 <a href="https://github.com/sukkaw#gh-light-mode-only">
