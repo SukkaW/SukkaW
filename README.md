@@ -8,7 +8,7 @@
 <br>
 <br>
 
-[![wakatime](https://wakatime.com/badge/user/5d907773-4bad-4681-802b-c2bec4583297.svg?style=flat-square)](https://wakatime.com/@5d907773-4bad-4681-802b-c2bec4583297) ![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fsukkaw&bgRight=000&bgLeft=000&border=square)
+[![wakatime](https://wakatime.com/badge/user/5d907773-4bad-4681-802b-c2bec4583297.svg?style=flat-square)](https://wakatime.com/@5d907773-4bad-4681-802b-c2bec4583297) ![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Fsukkaw&bgRight=000&bgLeft=000&border=square)
 
 > A coder who is passionate about web technologies and open source
 
