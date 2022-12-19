@@ -36,4 +36,5 @@
 [My Blog](https://blog.skk.moe) ·
 [Twitter](https://twitter.com/isukkaw) ·
 [Telegram Channel](https://t.me/s/sukkachannel) ·
-[E-Mail](mailto:github_at_skk_dot_moe)
+[E-Mail](mailto:github_at_skk_dot_moe) ·
+<a rel="nofollow me" href="https://acg.mn/@sukka">Mastodon</a>
