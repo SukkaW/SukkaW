@@ -1,8 +1,8 @@
 <a href="https://skk.moe#gh-light-mode-only">
-  <img src="https://cdn.skk.moe/img/profile-info/light.png#gh-light-mode-only">
+  <img src="https://cdn.skk.moe/img/profile-info/light.png?#gh-light-mode-only">
 </a>
 <a href="https://skk.moe#gh-dark-mode-only">
-  <img src="https://cdn.skk.moe/img/profile-info/dark.png#gh-dark-mode-only">
+  <img src="https://cdn.skk.moe/img/profile-info/dark.png?#gh-dark-mode-only">
 </a>
 
 <br>
@@ -36,4 +36,5 @@
 [My Blog](https://blog.skk.moe) ·
 [Twitter](https://twitter.com/isukkaw) ·
 [Telegram Channel](https://t.me/s/sukkachannel) ·
-[E-Mail](mailto:github_at_skk_dot_moe)
+[E-Mail](mailto:github_at_skk_dot_moe) ·
+<a rel="nofollow me" href="https://acg.mn/@sukka">Mastodon</a>
