@@ -13,17 +13,16 @@
 > A coder who is passionate about web technologies and open source
 
 <a href="https://github.com/sukkaw#gh-light-mode-only">
-  <img src="https://l.skk.moe/gh-stats-card-light-mode#gh-light-mode-only" align="right" alt="My GitHub Stats" />
+  <img src="https://github-profile-cards.skk.moe/light.svg#gh-light-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/sukkaw#gh-dark-mode-only">
-  <img src="https://l.skk.moe/gh-stats-card-dark-mode#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
+  <img src="https://github-profile-cards.skk.moe/dark.svg#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
 **I am a...**
 
 - [@hexojs](https://github.com/hexojs) core team member
-- [RSSHub](https://github.com/diygod/rsshub) collaborator
 - [@sspanel-uim](https://github.com/sspanel-uim) develop team member
 - [OpenIPDB](https://github.com/OpenIPDB) founder
 - Active contributor at [Next.js](https://github.com/vercel/next.js), [htmlnano](https://github.com/posthtml/htmlnano), and many more!
