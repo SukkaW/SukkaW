@@ -37,3 +37,13 @@
 [Telegram Channel](https://t.me/s/sukkachannel) ·
 [E-Mail](mailto:github_at_skk_dot_moe) ·
 <a rel="nofollow me" href="https://acg.mn/@sukka">Mastodon</a>
+
+**Sponsors**
+
+Your sponsorship means a lot to me. It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PR on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/SukkaW).
+
+<p align="center">
+  <a href="https://github.com/sponsors/SukkaW/">
+    <img src="https://sponsor.cdn.skk.moe/sponsors.svg"/>
+  </a>
+</p>
