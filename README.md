@@ -38,6 +38,13 @@
 [E-Mail](mailto:github_at_skk_dot_moe) ·
 <a rel="nofollow me" href="https://acg.mn/@sukka">Mastodon</a>
 
+**My GitHub Activities**
+
+[Created PRs](https://github.com/pulls?q=is%3Apr+author%3Asukkaw+-user%3Asukkaw) ·
+[Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Asukkaw+is%3Amerged+) ·
+[Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Asukkaw+-user%3Asukkaw) ·
+[All Involvements](https://github.com/pulls?q=involves%3Asukkaw+-user%3Asukkaw)
+
 **Sponsors**
 
 Your sponsorship means a lot to me. It will help me sustain my projects actively, make more of my ideas come true, and push me to create more PR on GitHub. If my code has been helpful to you, kindly consider [sponsoring me](https://github.com/sponsors/SukkaW).
