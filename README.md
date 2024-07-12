@@ -25,6 +25,8 @@
 - [@hexojs](https://github.com/hexojs) core team member
 - [@sspanel-uim](https://github.com/sspanel-uim) develop team member
 - [OpenIPDB](https://github.com/OpenIPDB) founder
+- Creator of [nolyfill](https://github.com/sukkaw/nolyfill)
+- Core maintainer of [eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
 - Active contributor at [Next.js](https://github.com/vercel/next.js), [htmlnano](https://github.com/posthtml/htmlnano), and many more!
 
 <br>
