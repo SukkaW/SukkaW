@@ -8,10 +8,10 @@
 
 **I am...**
 
-- A coder who is passionate about web technologies and open source
 - [@hexojs](https://github.com/hexojs) core team member
 - Creator of [nolyfill](https://github.com/sukkaw/nolyfill)
 - Core maintainer of [eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x) and co-maintainer of [eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript)
+- Maintainer of [DNSControl](https://dnscontrol.org)'s Vercel provider
 - Active contributor at [Next.js](https://github.com/vercel/next.js), [htmlnano](https://github.com/posthtml/htmlnano), and many more!
 
 <br>
